@@ -27,6 +27,7 @@ Each project is organized by language and includes:
 - Future improvement ideas where relevant
 
 Explore the folders to learn more about my work!
+
 ---
 
 ## 📄 Copyright & Legal Notice
