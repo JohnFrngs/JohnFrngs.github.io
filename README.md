@@ -14,6 +14,6 @@ Personal mini portfolio featuring projects in Statistical Modeling, Machine Lear
 ---
 
 ## 📜 License
-© 2026 John Frangistas. **All Rights Reserved.** Unauthorized use, reproduction, or distribution of this source code is strictly prohibited.
+© 2026 Ioannis Frangistas. **All Rights Reserved.** Unauthorized use, reproduction, or distribution of this source code is strictly prohibited.
 
 ---
