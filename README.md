@@ -1,7 +1,7 @@
 # John Frangistas | JFAnalytics
 **Data Scientist**
 
-Personal portfolio featuring projects in Statistical Modeling, Machine Learning, and Data Analysis.
+Personal mini portfolio featuring projects in Statistical Modeling, Machine Learning, and Data Analysis. For full scale porftolio please refer to my website.
 
 ---
 
