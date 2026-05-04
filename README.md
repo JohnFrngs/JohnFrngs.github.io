@@ -7,7 +7,7 @@ Personal mini portfolio featuring projects in Statistical Modeling, Machine Lear
 
 ## 🚀 Open - Access Projects
 
-* **Bank Loan Advertising Campaign** Predictive modeling to optimize marketing conversion for banking products.
+* **Bank Term Deposit Advertising Campaign** Predictive modeling to optimize marketing conversion for banking products.
 * **Simulation of Phase IV Pharmacovigilance Trial** NLP Analysis of Pfizer flagship drug reviews from drugs.com dataset.
 * **HR Attrition Analysis** Data-driven insights and features identifying key drivers for employee turnover.
 
